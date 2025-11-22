@@ -3,3 +3,8 @@
 !README.md
 !.gitignore
 !Cargo.toml
+
+!c
+!c/syscall_tracer
+
+!rust
