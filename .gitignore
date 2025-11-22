@@ -3,6 +3,7 @@
 !README.md
 !.gitignore
 !Cargo.toml
+!Makefile
 
 !c
 !c/syscall_tracer
