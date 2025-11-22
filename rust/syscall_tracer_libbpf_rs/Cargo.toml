@@ -1,0 +1,12 @@
+[package]
+name = "syscall_tracer_libbpf_rs"
+version = "0.1.0"
+edition = "2024"
+
+[build-dependencies]
+libbpf-cargo = "0.25.0"
+
+[dependencies]
+chrono = "0.4.42"
+libbpf-rs = "0.25.0"
+time = {version = "0.3.44", features = ["formatting", "parsing","macros"] }
