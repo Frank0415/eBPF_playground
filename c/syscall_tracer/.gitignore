@@ -6,6 +6,6 @@
 !.clang-format
 !Makefile
 
-!*.c
-!*.bpf.c
-!*.h
+!tracer.c
+!tracer.bpf.c
+!tracer.h
