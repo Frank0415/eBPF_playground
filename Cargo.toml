@@ -1,5 +1,5 @@
 [workspace]
-members = ["rust/syscall_tracer_aya","rust/syscall_tracer_libbpf_rs"]
+members = ["rust/syscall_tracer_libbpf_rs"]
 resolver = "3"
 
 

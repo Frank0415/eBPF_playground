@@ -2,7 +2,7 @@
 
 Contains a series of examples to experiment and play with eBPF, in both `C` (`libbpf`) and `Rust` (`libbpf-rs` and `aya`). Each folder contains its own `README.md` with relevant information and instructions.
 
-Run `make` in the root directory to build all examples in C with their binaries in `build/` and `cargo build` in the root directory to build all examples in Rust with their binaries in `target/`.
+Run `make` in the root directory to build all examples in C with their binaries in `build/` and `cargo build` in the root directory to build all examples in Rust with their binaries in `target/` (FIX: not working, only building syscall_tracer_libbpf_rs).
 
 # C
 
