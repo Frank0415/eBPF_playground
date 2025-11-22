@@ -8,3 +8,4 @@
 !c/syscall_tracer
 
 !rust
+!rust/syscall_tracer_libbpf_rs
