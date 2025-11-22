@@ -10,3 +10,4 @@
 
 !rust
 !rust/syscall_tracer_libbpf_rs
+!rust/syscall_tracer_aya

@@ -1,0 +1,19 @@
+### https://raw.github.com/github/gitignore/master/Rust.gitignore
+
+*
+
+!README.md
+!.gitignore
+!LICENSE*
+!rustfmt.toml
+!Cargo.toml
+
+!syscall_tracer_aya/
+!syscall_tracer_aya/*
+!syscall_tracer_aya/src/*
+!syscall_tracer_aya-ebpf/
+!syscall_tracer_aya-ebpf/*
+!syscall_tracer_aya-ebpf/src/*
+!syscall_tracer_aya-common/
+!syscall_tracer_aya-common/*
+!syscall_tracer_aya-common/src/*

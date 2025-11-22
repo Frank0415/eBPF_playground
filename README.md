@@ -13,6 +13,7 @@ Some code or information in this part references [bpf-developer-tutorial](https:
 Some code or information in this part references 
 
 - [libbpf-rs/examples](https://github.com/libbpf/libbpf-rs/blob/master/examples/)
+- [aya book](https://aya-rs.dev/book)
 
 # Contributing
 
